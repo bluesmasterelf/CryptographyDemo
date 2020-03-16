@@ -6,10 +6,12 @@ namespace CryptographyDemo
 {
     class MyDiffieHelmenKeyGenerator
     {
-        public int Base = 413158511;
-        public int Prime = 433024223;
+        //https://primes.utm.edu/lists/2small/100bit.html
+
+        public int Base = (int)Math.Pow(2, 129)-25;
+        public int Prime = (int)Math.Pow(2, 129) - 315;
+
         private int MySecretValue;
-        //private static int OtherSecretValue = 987654321;
         private int Key;
         public MyDiffieHelmenKeyGenerator(int SecretVal)
         {

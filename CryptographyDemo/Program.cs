@@ -43,8 +43,11 @@ namespace CryptographyDemo
 
             string encrypted = SymmetricDemo.SymmetricEncrypt(breakpoint, 5);
             Console.WriteLine(encrypted);
+
             string uncrypted = SymmetricDemo.SymmetricDecrypt(encrypted, 5);
             Console.WriteLine(uncrypted);
+
+
             var pointBreak = breakpoint;
 
             #endregion
