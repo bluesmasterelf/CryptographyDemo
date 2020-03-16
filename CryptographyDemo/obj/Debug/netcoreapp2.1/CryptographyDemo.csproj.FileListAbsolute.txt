@@ -1,0 +1,11 @@
+C:\Users\ihogan\source\repos\CryptographyDemo\CryptographyDemo\bin\Debug\netcoreapp2.1\CryptographyDemo.deps.json
+C:\Users\ihogan\source\repos\CryptographyDemo\CryptographyDemo\bin\Debug\netcoreapp2.1\CryptographyDemo.runtimeconfig.json
+C:\Users\ihogan\source\repos\CryptographyDemo\CryptographyDemo\bin\Debug\netcoreapp2.1\CryptographyDemo.runtimeconfig.dev.json
+C:\Users\ihogan\source\repos\CryptographyDemo\CryptographyDemo\bin\Debug\netcoreapp2.1\CryptographyDemo.dll
+C:\Users\ihogan\source\repos\CryptographyDemo\CryptographyDemo\bin\Debug\netcoreapp2.1\CryptographyDemo.pdb
+C:\Users\ihogan\source\repos\CryptographyDemo\CryptographyDemo\obj\Debug\netcoreapp2.1\CryptographyDemo.csprojAssemblyReference.cache
+C:\Users\ihogan\source\repos\CryptographyDemo\CryptographyDemo\obj\Debug\netcoreapp2.1\CryptographyDemo.csproj.CoreCompileInputs.cache
+C:\Users\ihogan\source\repos\CryptographyDemo\CryptographyDemo\obj\Debug\netcoreapp2.1\CryptographyDemo.AssemblyInfoInputs.cache
+C:\Users\ihogan\source\repos\CryptographyDemo\CryptographyDemo\obj\Debug\netcoreapp2.1\CryptographyDemo.AssemblyInfo.cs
+C:\Users\ihogan\source\repos\CryptographyDemo\CryptographyDemo\obj\Debug\netcoreapp2.1\CryptographyDemo.dll
+C:\Users\ihogan\source\repos\CryptographyDemo\CryptographyDemo\obj\Debug\netcoreapp2.1\CryptographyDemo.pdb
