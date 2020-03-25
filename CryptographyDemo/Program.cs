@@ -27,7 +27,7 @@ namespace CryptographyDemo
             //Ian's secret number is 123456789
             MyDiffieHelmenKeyGenerator IansDiffie = new MyDiffieHelmenKeyGenerator(123456789);
 
-            //Cole's secret number is 123456789
+            //Cole's secret number is 987654321
             MyDiffieHelmenKeyGenerator ColesDiffie = new MyDiffieHelmenKeyGenerator(987654321);
 
             ColesDiffie.ComputeKeyFromGiven(IansDiffie.ValueToGive());
